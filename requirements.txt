@@ -1,0 +1,8 @@
+torch~=2.5.1
+transformers~=4.47.0
+pandas~=2.2.2
+tqdm~=4.66.5
+scikit-learn~=1.5.1
+numpy~=1.26.4
+evaluate~=0.4.3
+datasets~=2.19.1
