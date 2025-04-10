@@ -21,6 +21,7 @@ Code and datasets of our paper "From Overall Sentiment to Aspect-Level Insights:
 
 ## ABSA trained model
 To use the trained model for aspect-based sentiment analysis, you can download the model weights from the following link:
+[https://www.dropbox.com/scl/fo/ekp4o1avws6tgycg8kpyc/AAFWG_ViaC-iNLbP9Y2JAWc?rlkey=ttsrb84rll23vat6txcwa4p5t&st=lkgtgfgh&dl=0](https://www.dropbox.com/scl/fo/ekp4o1avws6tgycg8kpyc/AAFWG_ViaC-iNLbP9Y2JAWc?rlkey=ttsrb84rll23vat6txcwa4p5t&st=lkgtgfgh&dl=0)
 
 Once downloaded, save the weights to the specified folder. The default folder path is:
 [model/trained_model](model/trainde_model)
@@ -31,4 +32,3 @@ To run the model, run:
 
 ```bash
 sh run.sh
-
